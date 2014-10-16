@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bsc:home|Door43 (bsc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bsc|d43-bsc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bsc/archive/master.zip|d43-bsc.zip]]
+
+**Recent Changes**
+{{changes>ns = bsc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bsc|Ethnologue data]]
+
